@@ -88,7 +88,7 @@ Restaurant UI clone
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Saksham9461&theme=tokyonight&hide_border=true&border_radius=20" />
+<img height="180" src="https://streak-stats.demolab.com?user=Saksham9461&theme=tokyonight&hide_border=true&border_radius=20" />
 
 </div>
 
