@@ -62,6 +62,14 @@ I’m **Saksham Ojha**, a passionate **Full-Stack Developer** and **Flutter Inte
 
 # 💎 FEATURED PROJECTS
 
+### 🔹 **ReuniteIt**
+Modern lost and found portal  
+**Tech:** HTML | CSS | JS | NODEJS | EXPRESSJS | MONGO | EJS | CLOUDINARY | RENDER<br>
+🔗 Demo: https://reuniteit.onrender.com/ <br>
+🔗 Repo: https://github.com/Saksham9461/ReuniteIt.git
+
+---
+
 ### 🔹 **Weather App**
 Live weather with clean animations  
 **Tech:** HTML | CSS | JS <br>
