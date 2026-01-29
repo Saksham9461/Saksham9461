@@ -51,7 +51,7 @@ I’m **Saksham Ojha**, a passionate **Full-Stack Developer** and **Flutter Inte
 
 # 👑 EXPERIENCE
 
-### 🚀 **Flutter Intern — Ordex Technology Solution**
+### 🚀 **React Native Intern — Ordex Technology Solution**
 - Built real-world Flutter UI screens  
 - Integrated REST APIs  
 - Implemented UI components and animations  
@@ -67,6 +67,14 @@ Modern lost and found portal
 **Tech:** HTML | CSS | JS | NODEJS | EXPRESSJS | MONGO | EJS | CLOUDINARY | RENDER<br>
 🔗 Demo: https://reuniteit.onrender.com/ <br>
 🔗 Repo: https://github.com/Saksham9461/ReuniteIt.git
+
+---
+
+### 🔹 **Portfolio**
+Modern and responsive portfolio website 
+**Tech:** HTML | CSS | JS | NETLIFY<br>
+🔗 Demo: https://sakshamojha.netlify.app/ <br>
+🔗 Repo: https://github.com/Saksham9461/Portfolio.git
 
 ---
 
