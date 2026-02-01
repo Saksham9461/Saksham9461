@@ -74,7 +74,7 @@ Modern lost and found portal
 Modern and responsive portfolio website 
 **Tech:** HTML | CSS | JS | NETLIFY<br>
 🔗 Demo: https://sakshamojha.netlify.app/ <br>
-🔗 Repo: https://github.com/Saksham9461/Portfolio.git
+🔗 Repo: PRIVATE REPO
 
 ---
 
