@@ -11,7 +11,7 @@
 
 # ⚡ ABOUT ME
 
-I’m **Saksham Ojha**, a passionate **Full-Stack Developer** and **Flutter Intern**, creating beautiful, fast, modern **web** and **mobile** experiences.
+I’m **Saksham Ojha**, a passionate **Full-Stack Developer** and **React Native Intern**, creating beautiful, fast, modern **web** and **mobile** experiences.
 
 🔥 Full Stack Developer  
 📱 Flutter Intern (Ordex Technology Solution)  
@@ -52,7 +52,7 @@ I’m **Saksham Ojha**, a passionate **Full-Stack Developer** and **Flutter Inte
 # 👑 EXPERIENCE
 
 ### 🚀 **React Native Intern — Ordex Technology Solution**
-- Built real-world Flutter UI screens  
+- Built real-world React Native UI screens  
 - Integrated REST APIs  
 - Implemented UI components and animations  
 - Solved bugs & improved performance  
@@ -67,14 +67,6 @@ Modern lost and found portal
 **Tech:** HTML | CSS | JS | NODEJS | EXPRESSJS | MONGO | EJS | CLOUDINARY | RENDER<br>
 🔗 Demo: https://reuniteit.onrender.com/ <br>
 🔗 Repo: https://github.com/Saksham9461/ReuniteIt.git
-
----
-
-### 🔹 **Portfolio**
-Modern and responsive portfolio website 
-**Tech:** HTML | CSS | JS | NETLIFY<br>
-🔗 Demo: https://sakshamojha.netlify.app/ <br>
-🔗 Repo: PRIVATE REPO
 
 ---
 
@@ -97,16 +89,6 @@ Modern responsive clone
 Restaurant UI clone  
 **Tech:** HTML | CSS | JS  
 🔗 Repo: https://github.com/Saksham9461/Kitchen-Clone.git
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com?user=Saksham9461&theme=tokyonight&hide_border=true&border_radius=20" />
-
-</div>
 
 ---
 
