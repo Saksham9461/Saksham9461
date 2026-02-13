@@ -14,7 +14,7 @@
 I’m **Saksham Ojha**, a passionate **Full-Stack Developer** and **React Native Intern**, creating beautiful, fast, modern **web** and **mobile** experiences.
 
 🔥 Full Stack Developer  
-📱 Flutter Intern (Ordex Technology Solution)  
+📱 React Native and Flutter Intern (Ordex Technology Solution)  
 🎨 UI/UX Explorer  
 ⚡ DSA & Problem-Solving Enthusiast  
 
